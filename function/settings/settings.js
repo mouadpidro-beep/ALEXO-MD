@@ -21,11 +21,11 @@ global.info = {
  nameown : 'Mouad',
  nomerown : '212630886351',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : 'ALEXO AI',
+ namebot : 'ALEXO AI',
+ wm : 'ALEXO',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'ALEXO',
  jid: '@s.whatsapp.net'
 }
 
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://whatsapp.com/channel/0029VbCU8zOA89MkyEGSaa3d',
+ sgh:  'https://whatsapp.com/channel/0029VbCU8zOA89MkyEGSaa3d',
+ sgc: 'https://whatsapp.com/channel/0029VbCU8zOA89MkyEGSaa3d'
 }
 // Donasi
 global.payment = {
